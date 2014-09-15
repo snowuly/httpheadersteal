@@ -1,0 +1,8 @@
+{
+  "DNS": {
+    "SERVER": "8.8.8.8",
+    "HIJACK_TARGET": ".*" 
+  },
+  "DATA_RECV_URL": "http://127.0.0.1:8080/",
+  "HEADER_FIELDS": [ "host", "cookie" ]
+}
